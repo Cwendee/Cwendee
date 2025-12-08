@@ -1,11 +1,25 @@
-Welcome to My GitHub Page!
+# 👋 Hi, I'm Prudence Anumudu
 
-Hello, everyone! Welcome to my GitHub page. Here, you will find insights into the journey of a determined, resilient, and hardworking individual who is committed to achieving her dreams, no matter the obstacles she faces.
+I’m a tech-focused professional transitioning into **Cloud Engineering and DevOps**, with hands-on experience gained through AWS labs, real-world projects, and structured learning programs.
 
-I am currently transitioning into the dynamic world of technology. My journey began with studies in Cybersecurity, and I have now found my passion in DevOps Engineering, which I discovered along my cybersecurity path. This transition has been both challenging and thrilling, and I am eager to continue growing and learning in this exciting field.
+I’m an **AWS Certified Cloud Practitioner** and an **ALX AWS Solutions Architect Associate Scholar**, currently building expertise in:
 
-On this page, you will find a variety of projects, ranging from leisure activities to real-world applications. I am enthusiastic about collaborating with developers on innovative projects to further enhance my skills and contribute meaningfully to the tech community.
+### 🔧 Cloud & DevOps Skills
+- **AWS:** EC2, S3, RDS, VPC, IAM, Lambda, DynamoDB, SNS, SQS  
+- **DevOps Tools:** Docker, Kubernetes, Terraform, GitHub  
+- **CI/CD & Monitoring:** Jenkins, CodePipeline, CloudWatch, Grafana  
+- **Serverless & Automation:** EventBridge, IAM automation, multi-region deployments
 
-As a fast learner and a work in progress, I am always ready to embrace new challenges and opportunities that will enable me to achieve even greater feats.
+### 🚀 What I’ve Built
+- Multi-tier web apps on EC2 with ALB + Auto Scaling  
+- Serverless inventory and event-driven systems using Lambda, DynamoDB, SNS  
+- Secure VPC setups with public/private subnets, NAT, routing & SG rules  
+- IaC deployments using Terraform and CloudFormation  
+- CI/CD pipelines for automated builds and rollouts
 
-Thank you for visiting my page. I look forward to connecting and collaborating with you.
+### 🌱 My Background
+Before transitioning into tech, I led customer service teams, managed CRM systems, trained users, and improved operational workflows.  
+Those experiences shaped my **leadership, problem-solving, documentation, and customer-centric mindset**, which now strengthen my work in cloud and DevOps.
+
+### 📫 Connect with Me
+**LinkedIn:** [Prudence Anumudu](https://www.linkedin.com/in/prudence-c-anumudu-35518656)  
