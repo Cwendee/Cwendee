@@ -2,7 +2,7 @@
 
 I’m a tech-focused professional transitioning into **Cloud Engineering and DevOps**, with hands-on experience gained through AWS labs, real-world projects, and structured learning programs.
 
-I’m an **AWS Certified Cloud Practitioner** and an **ALX AWS Solutions Architect Associate Scholar**, currently building expertise in:
+I’m an **AWS Certified Cloud Practitioner** and an **AWS CertifiedSolutions Architect Associate**, currently building expertise in:
 
 ### 🔧 Cloud & DevOps Skills
 - **AWS:** EC2, S3, RDS, VPC, IAM, Lambda, DynamoDB, SNS, SQS  
